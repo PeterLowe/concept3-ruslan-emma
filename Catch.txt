@@ -10,22 +10,28 @@ World Background :
 
 
 
-Pillars
+Pillars:
 
 
 
 
-30 second Game Play
+30 second Game Play: 
+
+game consists of a frog on a lily pad catching balls of certain coloured yarns to create a 
+knittied sweater while trying to collect a certain colour of yarn you must push "sponge" (the frog) 
+away from getting hit with sowing needles.You have certain time to collect the yarn to knit your jumper.
+Once you have collected all of you yarn and havent died from getting hit with needles you can see your jumper 
+on sponge with all colors of yarn collected on the game.
 
 
 
 
 
-Features
+Features:
 
 
 
 
 
 
-Market Analysis
+Market Analysis:
