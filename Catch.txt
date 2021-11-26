@@ -23,7 +23,13 @@ on sponge with all colors of yarn collected on the game.
 
 
 Features:
+Every 20 minute you get one life but can only get five at one time.
+every level you sussesfuly win you get coins you can buy others sweeter that the have made after every level.
+when you have coin you can also purchase other yarns which create different patterns with in the jumpers you knit.
+you can also save you frog sponges life in a game if you have ten coins.
 
 
 
 Market Analysis:
+expected addiunce of the game is children under the age of 16 and older indivduals . we expect to make money from the adds on the main screen before entering game as 
+people buying the coins as in-app purchases. Expected money made 50,000.
