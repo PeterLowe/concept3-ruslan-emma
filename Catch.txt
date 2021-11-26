@@ -4,13 +4,11 @@ Elevator Pitch : Knit It, is a cute simple game that follows a frog as he is try
 The game appeals to all with its cute pixel graphics- help the frog catch his required colours of yarn in order
 to knit himself a new sweater to keep warm. [RG]
 
-World Background : 
+World Background : Sponge is a casual swamp frog who has a love for knitting. It is his goal to knit the greatest jumpers.
+He has been catching and combining yarn in order to find the best combination for a jumper. He sells his jumpers in order to buy books to fuel his 
+desire to knit and create more jumpers.  [RG]
 
-
-
-
-
-Pillars
+Pillars : 
 
 
 
